@@ -4,12 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
-
+I am Nishant, a first year Ph.D. candidate at [UIUC]() in the Computer Science department, where I am advised by [Prof. Tong Zhang](). Prior to this, I was a Pre-Doctoral Researcher at [Google Deepmind]() where I worked with [Pradeep Shenoy]() and also collaborated with [Karthikeyan Shanmugham]() and [Arun Suggala](). Prior to that
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** image 
+- **Machine Learning:** meta
 
 ## News
 
